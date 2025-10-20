@@ -1,5 +1,8 @@
 # itk_scanner
 
+🌍 Available in:
+[English](README.md) | [Bahasa Indonesia](README_ID.md)
+
 A new Flutter project.
 
 ## Getting Started

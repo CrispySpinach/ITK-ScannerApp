@@ -1,4 +1,4 @@
 #Test MD
 
 🌍 Tersedia dalam:
-[Bahasa Indonesia](README_ID.md) | [English](README.md)
+[Bahasa Indonesia](README-ID.md) | [English](README.md)

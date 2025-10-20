@@ -1,7 +1,7 @@
 # itk_scanner
 
 🌍 Available in:
-[English](README.md) | [Bahasa Indonesia](README_ID.md)
+[English](README.md) | [Bahasa Indonesia](README-ID.md)
 
 A new Flutter project.
 
